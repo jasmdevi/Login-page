@@ -1,1 +1,1 @@
-# Login-page
+This repository contains the source code for a basic Android login page application, developed in Kotlin. The app enables users to input their credentials (username and password) and logs the inputs for testing and debugging purposes.
